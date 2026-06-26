@@ -1,0 +1,8 @@
+| party    |   anteil_akademisch |
+|:---------|--------------------:|
+| CDU      |               0.505 |
+| SPD      |               0.447 |
+| GRUENE   |               0.612 |
+| FDP      |               0.521 |
+| DIELINKE |               0.429 |
+| AFD      |               0.427 |
