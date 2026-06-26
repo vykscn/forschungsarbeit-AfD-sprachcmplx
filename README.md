@@ -1,1 +1,0 @@
-# forschungsarbeit-AfD-sprachcmplx
