@@ -1,4 +1,0 @@
-Spezifikation,is_afd_beta,se,ci_low,ci_high
-MixedLM (1|speaker),0.1293,0.0195,0.091,0.1675
-OLS cluster=speaker,0.1563,0.0263,0.1048,0.2079
-OLS cluster=sitting_day,0.1563,0.0074,0.1418,0.1708

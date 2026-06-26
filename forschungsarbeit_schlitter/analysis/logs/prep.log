@@ -1,6 +1,0 @@
-[load] 83,495 Reden, 1180 Redner:innen, 2017-01-18–2025-03-18
-prozedural markiert: 17,997 (21.6%); Median-Länge prozedural 14 vs. inhaltlich 441 Tokens
-Fraktionswechsler (Name mit >1 Partei): 1
-[Filter] prozedural entfernt: 83,495 → 65,498 (−17,997)
-[Filter] n_tokens ≥ 50: 65,498 → 51,682 (−13,816)
-[save] Analyseset: 51,682 Reden, 1177 Redner:innen → analysis/data/speeches_clean.parquet
